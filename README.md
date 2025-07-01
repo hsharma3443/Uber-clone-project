@@ -34,7 +34,7 @@ uber-clone/
 │   └── context/
 ├── .env
 ├── README.md
-
+```
 ## 👨‍💻 Author
 
 - **Hemant Sharma**  
