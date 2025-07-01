@@ -34,23 +34,6 @@ uber-clone/
 ├── .env
 ├── README.md
 
-less
-Copy
-Edit
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-To contribute:
-- Fork this repository
-- Create a new branch (`git checkout -b feature-name`)
-- Commit your changes and push
-- Submit a pull request
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 👨‍💻 Author
 
 - **Hemant Sharma**  
