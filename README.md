@@ -21,16 +21,17 @@
 
 ## 📁 Project Structure
 
+```plaintext
 uber-clone/
-├── backend/ # Node.js + Express API
-│ └── models/
-│ └── routes/
-│ └── controllers/
-│ └── socket/
-├── frontend/ # React + Tailwind + GSAP UI
-│ └── components/
-│ └── pages/
-│ └── context/
+├── backend/        # Node.js + Express API
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── socket/
+├── frontend/       # React + Tailwind + GSAP UI
+│   ├── components/
+│   ├── pages/
+│   └── context/
 ├── .env
 ├── README.md
 
